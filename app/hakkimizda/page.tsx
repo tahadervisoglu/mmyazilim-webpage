@@ -95,8 +95,7 @@ export default function HakkimizdaPage() {
                 <h3 className="text-2xl font-serif text-white mb-2">Taha Dervişoğlu</h3>
                 <p className="text-zinc-500 font-mono text-sm uppercase tracking-wider mb-4">Lead Developer</p>
                 <p className="text-zinc-400 leading-relaxed">
-                  10+ yıllık deneyimle, backend mimarisinden frontend detaylarına kadar her şeyi kapsayan full-stack
-                  development expertise'i.
+                  2 yıllık web sitesi geliştirme deneyimi ve yapay zeka mühendisliği üzerine çalışmalar. Modern teknolojilerle geleceğin dijital çözümlerini şekillendiriyoruz.
                 </p>
               </div>
             </div>
